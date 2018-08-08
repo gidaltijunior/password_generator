@@ -176,5 +176,7 @@ class Application(tk.Frame):
 
 
 # startup
-app = Application()
-app.mainloop()
+if __name__ == '__main__':
+    window_name = tk.Tk(None, None, 'Password Generator')
+    app = Application()
+    app.mainloop()
