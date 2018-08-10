@@ -5,7 +5,11 @@ Tested successfully on Linux Ubuntu and Windows 10.
 Use python3 to run it.
 
 Main window:<br>
-![main_window](https://i.imgur.com/XamPtN3.png)
+![main_window](https://i.imgur.com/XamPtN3.png)<br>
+On Ubuntu Gnome 16.04
+
+![main_window_w10](https://i.imgur.com/R8cp9ny.png)<br>
+On Windows 10
 
 Select any option available on the radio boxes, the amount of digits (lenght of generated string) and special characters that should be used if "Characters, Numbers and Special Characters" option is selected.
 The application generates always 10 different results in a list box for you to choose from.
@@ -25,6 +29,10 @@ Results for 16 digits numbers, characters and special characters:<br>
 ![nums_chars_and_special](https://i.imgur.com/lHdcuUr.png)
 
 Results for 100 digits numbers, characters and special characters:<br>
-![100_digits](https://i.imgur.com/BN2LleU.png)
+![100_digits](https://i.imgur.com/BN2LleU.png)<br>
+On Ubuntu Gnome 16.04
+
+![100_digits_w10](https://i.imgur.com/ygK3clb.png)<br>
+On Windows 10
 
 If you have any suggestion or question send an e-mail to: gidaltijunior@gmail.com or open an issue.
